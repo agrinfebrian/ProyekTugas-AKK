@@ -13,6 +13,8 @@ Uji Statistik:
 ANOVA: Menguji perbedaan rata-rata antar kelompok data (misal berdasarkan gender, usia, atau latar belakang responden).
 Kruskal-Wallis Test: Alternatif uji non-parametrik untuk melihat perbedaan median antar kelompok.
 Analisis Sentimen Komentar Responden: Menggunakan teknik text mining untuk memahami sentimen positif, negatif, atau netral dalam komentar terbuka.
+
+
 💡 Kontak
 Jika ada pertanyaan lebih lanjut mengenai proyek ini, silakan hubungi:
 📧 Email: agrinfebrianp@gmail.com
